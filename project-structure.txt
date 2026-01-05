@@ -1,0 +1,57 @@
+.
+├── README.md
+├── Upload.md
+├── backend
+│   ├── README.md
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── src
+│   │   ├── config
+│   │   ├── controllers
+│   │   ├── middleware
+│   │   ├── models
+│   │   ├── routes
+│   │   ├── server.js
+│   │   ├── services
+│   │   └── utils
+│   └── uploads
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── plan.md
+├── postcss.config.js
+├── project-structure.txt
+├── public
+│   └── vite.svg
+├── reportplan.md
+├── setup.sh
+├── src
+│   ├── App.css
+│   ├── App.jsx
+│   ├── assets
+│   │   └── react.svg
+│   ├── components
+│   │   ├── Admin
+│   │   ├── Shared
+│   │   └── User
+│   ├── context
+│   │   └── AuthContext.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   ├── pages
+│   │   ├── AdminDashboard.jsx
+│   │   ├── AdminLogin.jsx
+│   │   ├── EditRequestsPage.jsx
+│   │   ├── FormBuilderPage.jsx
+│   │   ├── NavigationPage.jsx
+│   │   ├── ReportsPage.jsx
+│   │   ├── SchoolDetailPage.jsx
+│   │   ├── SchoolImportPage.jsx
+│   │   └── UserHome.jsx
+│   └── utils
+│       └── api.js
+├── tailwind.config.js
+└── vite.config.js
+
+21 directories, 34 files
